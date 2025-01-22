@@ -48,7 +48,7 @@ Bu loyiha plastik kartalarni qo'shish uchun mobil ilova sahifasini yaratishni ma
 ## Loyihani Ishga Tushirish
 1. Loyihani klonlang:
    ```bash
-   git clone [<repository_url>](https://github.com/Boburbek6010/test_task_card)
+   git clone https://github.com/Boburbek6010/test_task_card
    ```
 2. Zaruriy kutubxonalarni o'rnating:
    ```bash
@@ -71,5 +71,5 @@ Humo va Uzcard kartalari bilan quyidagi jarayonlar test qilindi:
 - NFC orqali karta ma'lumotlarini o'qish.
 
 ## Mualliflik Huquqi
-Bu loyiha [The Alpha Group](https://example.com) tomonidan yaratilgan va qo'llab-quvvatlanadi.
+Bu loyiha [Boburbek Khusanboev](https://github.com/Boburbek6010) tomonidan yaratilgan va qo'llab-quvvatlanadi.
 
