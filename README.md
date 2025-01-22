@@ -48,7 +48,7 @@ Bu loyiha plastik kartalarni qo'shish uchun mobil ilova sahifasini yaratishni ma
 ## Loyihani Ishga Tushirish
 1. Loyihani klonlang:
    ```bash
-   git clone <repository_url>
+   git clone [<repository_url>](https://github.com/Boburbek6010/test_task_card)
    ```
 2. Zaruriy kutubxonalarni o'rnating:
    ```bash
